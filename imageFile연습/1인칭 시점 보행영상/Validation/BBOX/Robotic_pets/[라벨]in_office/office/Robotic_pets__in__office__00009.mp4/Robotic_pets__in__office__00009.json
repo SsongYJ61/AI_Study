@@ -1,0 +1,2880 @@
+{
+    "annotation": {
+        "jobId": "JID_001642221",
+        "resourceId": "JFID_002500677",
+        "resourcePath": "./",
+        "resource": "Robotic_pets__in__office__00009.mp4",
+        "resourceSize": 104317054,
+        "totFrame": 1885,
+        "sampledFrameCount": 69,
+        "duration": 65000.0,
+        "fps": 29.0,
+        "place": "office",
+        "viewpoint": "Robotic_pets",
+        "annotations": [
+            {
+                "contextId": "WCID_001651808",
+                "frame": 407,
+                "boxCount": 1,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "3a9286a281af442da8802a710428e062.png",
+                "atchOrgFileName": "scene00407.png",
+                "atchFileId": null,
+                "atchFileSize": 2066319,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1238.4431762695312,
+                            "y": 3.446960449218693,
+                            "w": 681.5568237304688,
+                            "h": 1076.5530395507812
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651809",
+                "frame": 1,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "466c093d6fc74c04ac48830c4c706222.png",
+                "atchOrgFileName": "scene00001.png",
+                "atchFileId": null,
+                "atchFileSize": 2200640,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651810",
+                "frame": 30,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "6feea57cc0804eadb0f6c063efc010ef.png",
+                "atchOrgFileName": "scene00030.png",
+                "atchFileId": null,
+                "atchFileSize": 1933593,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651811",
+                "frame": 59,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "4d1dd41ca0e04e52b862970f4ab2ffae.png",
+                "atchOrgFileName": "scene00059.png",
+                "atchFileId": null,
+                "atchFileSize": 1929955,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651812",
+                "frame": 88,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "37ca1e84b72b4b27beee8144dce5543d.png",
+                "atchOrgFileName": "scene00088.png",
+                "atchFileId": null,
+                "atchFileSize": 2000745,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651813",
+                "frame": 117,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "70be2a58e5964ae0a570e6d7206aeb68.png",
+                "atchOrgFileName": "scene00117.png",
+                "atchFileId": null,
+                "atchFileSize": 2149007,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651814",
+                "frame": 146,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "f8d4820a07ce4d0fbad78cb029abfa84.png",
+                "atchOrgFileName": "scene00146.png",
+                "atchFileId": null,
+                "atchFileSize": 2213951,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651815",
+                "frame": 175,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "60a9888357994a6c98a168e7d1089994.png",
+                "atchOrgFileName": "scene00175.png",
+                "atchFileId": null,
+                "atchFileSize": 2508142,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651816",
+                "frame": 204,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "e73b3bed299245aa9cead0fdeb5ab5d8.png",
+                "atchOrgFileName": "scene00204.png",
+                "atchFileId": null,
+                "atchFileSize": 2700486,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651817",
+                "frame": 233,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "2af561cc4f484e51b588b780e7d97ad7.png",
+                "atchOrgFileName": "scene00233.png",
+                "atchFileId": null,
+                "atchFileSize": 2581340,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651818",
+                "frame": 262,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "88c09dcec1704b50910ea42c83f3f645.png",
+                "atchOrgFileName": "scene00262.png",
+                "atchFileId": null,
+                "atchFileSize": 2689571,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651819",
+                "frame": 291,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "ae8d72de40cf47248634a6c3686de1dc.png",
+                "atchOrgFileName": "scene00291.png",
+                "atchFileId": null,
+                "atchFileSize": 2646740,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651820",
+                "frame": 320,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "1d6f496561c4445d992e7c71c3c9b7c4.png",
+                "atchOrgFileName": "scene00320.png",
+                "atchFileId": null,
+                "atchFileSize": 2517925,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651821",
+                "frame": 349,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "24632083165142f19a48ae01e97cebfc.png",
+                "atchOrgFileName": "scene00349.png",
+                "atchFileId": null,
+                "atchFileSize": 2324170,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651822",
+                "frame": 378,
+                "boxCount": 0,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "48ff50057b0148aa993753bff2038ce1.png",
+                "atchOrgFileName": "scene00378.png",
+                "atchFileId": null,
+                "atchFileSize": 2232663,
+                "boxesJson": null,
+                "box": []
+            },
+            {
+                "contextId": "WCID_001651823",
+                "frame": 436,
+                "boxCount": 1,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "b97199635c8942fc80f1cf00cc83263e.png",
+                "atchOrgFileName": "scene00436.png",
+                "atchFileId": null,
+                "atchFileSize": 1970320,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1024.0719604492188,
+                            "y": 0.0,
+                            "w": 895.9280395507812,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651824",
+                "frame": 465,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "61273d75ca2c4cd1882923d572522c26.png",
+                "atchOrgFileName": "scene00465.png",
+                "atchFileId": null,
+                "atchFileSize": 1860863,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1235.3693135579429,
+                            "y": 526.7234802246094,
+                            "w": 684.6306864420571,
+                            "h": 552.2764397753906
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 782.0359802246093,
+                            "y": 0.0,
+                            "w": 986.6666666666666,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651825",
+                "frame": 494,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "db72303e494a4cfaa4dbec989f683ed3.png",
+                "atchOrgFileName": "scene00494.png",
+                "atchFileId": null,
+                "atchFileSize": 1872616,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1013.7026468912761,
+                            "y": 525.0568135579427,
+                            "w": 827.6306864420573,
+                            "h": 554.6096931087238
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 548.702646891276,
+                            "y": 0.0,
+                            "w": 951.6666666666669,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651826",
+                "frame": 523,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "3da95a703f0b441886e23ea51e36454c.png",
+                "atchOrgFileName": "scene00523.png",
+                "atchFileId": null,
+                "atchFileSize": 2075098,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 925.3693135579427,
+                            "y": 523.390146891276,
+                            "w": 799.297353108724,
+                            "h": 556.2763597753906
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 464.73958333333314,
+                            "y": 0.0,
+                            "w": 933.963063557943,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1397.4052937825522,
+                            "y": 0.11362711588539298,
+                            "w": 513.3333333333335,
+                            "h": 1079.8863728841145
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651827",
+                "frame": 552,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "829c1ddfe5aa49e7838b18636cd1ed87.png",
+                "atchOrgFileName": "scene00552.png",
+                "atchFileId": null,
+                "atchFileSize": 2165865,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 843.702646891276,
+                            "y": 525.0568135579427,
+                            "w": 781.6666666666669,
+                            "h": 552.9430264420572
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 367.40529378255206,
+                            "y": 0.0,
+                            "w": 950.6676228841146,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1314.0719604492188,
+                            "y": 0.11362711588537877,
+                            "w": 603.3333333333335,
+                            "h": 1079.8863728841147
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651828",
+                "frame": 581,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "da7cd12d572c4d12ba6ff558aa83d258.png",
+                "atchOrgFileName": "scene00581.png",
+                "atchFileId": null,
+                "atchFileSize": 2376619,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 770.3165544782366,
+                            "y": 517.1915544782366,
+                            "w": 767.6840855217634,
+                            "h": 560.8077455217635
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 284.73958333333326,
+                            "y": 0.0,
+                            "w": 962.665710449219,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1230.7386271158855,
+                            "y": 0.11362711588549246,
+                            "w": 689.2613728841145,
+                            "h": 1079.8863728841145
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651829",
+                "frame": 610,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "ccd52821ce614672bcc52221482bcd62.png",
+                "atchOrgFileName": "scene00610.png",
+                "atchFileId": null,
+                "atchFileSize": 2535868,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 705.3693135579427,
+                            "y": 518.390146891276,
+                            "w": 739.9999999999999,
+                            "h": 558.609613108724
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 208.05397033691406,
+                            "y": 0.0,
+                            "w": 957.3153432210288,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1198.8879830496653,
+                            "y": 784.3344116210938,
+                            "w": 719.9458821614585,
+                            "h": 295.66558837890625
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1154.0719604492188,
+                            "y": 0.0,
+                            "w": 765.9280395507812,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651830",
+                "frame": 639,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "d443ce61526c4656a0af9c7992eac13a.png",
+                "atchOrgFileName": "scene00639.png",
+                "atchFileId": null,
+                "atchFileSize": 2541746,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 623.702646891276,
+                            "y": 520.0681762695312,
+                            "w": 723.3333333333334,
+                            "h": 556.9315837304688
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 111.40625,
+                            "y": 0.0,
+                            "w": 973.3333333333333,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1081.40625,
+                            "y": 0.0,
+                            "w": 713.0369262695312,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1116.4431762695312,
+                            "y": 770.0681762695312,
+                            "w": 803.5568237304688,
+                            "h": 309.93182373046875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651831",
+                "frame": 668,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "afb1e13be243441795982bbf286f599c.png",
+                "atchOrgFileName": "scene00668.png",
+                "atchFileId": null,
+                "atchFileSize": 2632150,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 518.0003199999999,
+                            "y": 513.792610168457,
+                            "w": 724.7766651684572,
+                            "h": 564.2077698315429
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 1018.702646891276,
+                            "y": 785.0568135579427,
+                            "w": 901.297353108724,
+                            "h": 291.609853108724
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 4.739583333333371,
+                            "y": 0.0,
+                            "w": 983.3333333333333,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 968.0539703369141,
+                            "y": 0.0,
+                            "w": 707.3153432210288,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651832",
+                "frame": 697,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "d97d720d6ebd4ed88039abeb7d9ce63f.png",
+                "atchOrgFileName": "scene00697.png",
+                "atchFileId": null,
+                "atchFileSize": 2856308,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 465.3693135579427,
+                            "y": 513.390146891276,
+                            "w": 723.3333333333335,
+                            "h": 564.609153108724
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 1.4062499999998863,
+                            "y": 1.6666666666666288,
+                            "w": 926.6666666666667,
+                            "h": 1078.3333333333335
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 920.5539703369141,
+                            "y": 0.0,
+                            "w": 685.0,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 961.40625,
+                            "y": 773.3901468912761,
+                            "w": 956.6666666666667,
+                            "h": 306.6098531087239
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651833",
+                "frame": 726,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "891009633b434ccab4a9aaab30de6213.png",
+                "atchOrgFileName": "scene00726.png",
+                "atchFileId": null,
+                "atchFileSize": 2864354,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 413.702646891276,
+                            "y": 510.0568135579427,
+                            "w": 728.3333333333335,
+                            "h": 569.9426464420574
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 920.4431762695312,
+                            "y": 768.0681762695312,
+                            "w": 999.5568237304688,
+                            "h": 308.5984903971355
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 4.739583333333371,
+                            "y": 1.6666666666666288,
+                            "w": 876.6666666666666,
+                            "h": 1078.3333333333335
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 883.0539703369141,
+                            "y": 0.0,
+                            "w": 662.5,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651834",
+                "frame": 755,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "10b1ced64c304d579d31061b4b323b9e.png",
+                "atchOrgFileName": "scene00755.png",
+                "atchFileId": null,
+                "atchFileSize": 2774908,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 372.0,
+                            "y": 508.06817626953125,
+                            "w": 730.4431762695312,
+                            "h": 570.9321237304687
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 4.7395833333332575,
+                            "y": 1.6666666666666288,
+                            "w": 837.703592936198,
+                            "h": 1078.3333333333335
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 844.7395833333334,
+                            "y": 5.0,
+                            "w": 666.6666666666666,
+                            "h": 1075.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 876.4431762695312,
+                            "y": 764.0681762695312,
+                            "w": 1039.6297403971353,
+                            "h": 315.93182373046875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651835",
+                "frame": 784,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "87709dbbf7a24bac8b59ddf771ce09a5.png",
+                "atchOrgFileName": "scene00784.png",
+                "atchFileId": null,
+                "atchFileSize": 2803234,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 334.00000000000006,
+                            "y": 510.06817626953125,
+                            "w": 738.4431762695312,
+                            "h": 566.9321237304687
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 848.0729166666666,
+                            "y": 751.6666666666667,
+                            "w": 1070.0000000000005,
+                            "h": 328.33333333333326
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1.4062499999998863,
+                            "y": 5.0,
+                            "w": 816.6666666666667,
+                            "h": 1075.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 814.7395833333334,
+                            "y": 0.0,
+                            "w": 661.7035929361979,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651836",
+                "frame": 813,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "2933b39ac08546c29c26fc8147980ef6.png",
+                "atchOrgFileName": "scene00813.png",
+                "atchFileId": null,
+                "atchFileSize": 2840135,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 289.00032000000004,
+                            "y": 512.0681762695312,
+                            "w": 749.4428562695311,
+                            "h": 565.9322037304687
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "w": 781.40625,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 784.7395833333333,
+                            "y": 0.0,
+                            "w": 653.703592936198,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 812.4431762695312,
+                            "y": 774.0681762695312,
+                            "w": 1050.0,
+                            "h": 305.93182373046875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1230.4431762695312,
+                            "y": 822.0681762695312,
+                            "w": 689.5568237304688,
+                            "h": 257.93182373046875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651837",
+                "frame": 842,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "ea46b77952d9473fb50b1a78cd1db9d0.png",
+                "atchOrgFileName": "scene00842.png",
+                "atchFileId": null,
+                "atchFileSize": 2875602,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 249.99936000000002,
+                            "y": 510.06817626953125,
+                            "w": 756.4438162695312,
+                            "h": 567.9322037304687
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 783.7026468912761,
+                            "y": 763.6931864420573,
+                            "w": 1040.0000000000002,
+                            "h": 316.30681355794275
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1.4062499999998863,
+                            "y": 0.0,
+                            "w": 745.0369262695314,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 728.4431762695312,
+                            "y": 0.0,
+                            "w": 670.2594706217449,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1200.3693135579429,
+                            "y": 816.7234802246094,
+                            "w": 719.6306864420571,
+                            "h": 260.05681355794286
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651838",
+                "frame": 871,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "03d31eca469049cdbe7ab6375aaa5ee3.png",
+                "atchOrgFileName": "scene00871.png",
+                "atchFileId": null,
+                "atchFileSize": 2918945,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 236.00095999999996,
+                            "y": 510.06817626953125,
+                            "w": 768.4422162695313,
+                            "h": 567.9322037304687
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 8.072916666666629,
+                            "y": 0.0,
+                            "w": 735.9990437825521,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 729.40625,
+                            "y": 0.0,
+                            "w": 663.0369262695312,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 776.0729166666666,
+                            "y": 764.0681762695312,
+                            "w": 1058.3702596028647,
+                            "h": 315.93182373046875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1200.4431762695312,
+                            "y": 822.0681762695312,
+                            "w": 719.5568237304688,
+                            "h": 256.0
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651839",
+                "frame": 900,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "8d87f94a809747528d6457655af352a3.png",
+                "atchOrgFileName": "scene00900.png",
+                "atchFileId": null,
+                "atchFileSize": 2891601,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 219.33269333333328,
+                            "y": 505.0568135579427,
+                            "w": 744.3699535579426,
+                            "h": 572.9435664420573
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 753.0729166666667,
+                            "y": 753.3901468912761,
+                            "w": 1015.6297302246094,
+                            "h": 324.94318644205714
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 703.0729166666664,
+                            "y": 0.0,
+                            "w": 664.9810536702477,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1.40625,
+                            "y": 0.0,
+                            "w": 710.0,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1148.702646891276,
+                            "y": 806.7234802246094,
+                            "w": 771.2973531087241,
+                            "h": 273.2765197753906
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651840",
+                "frame": 929,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "157b070606e7473f9a5f78ff147189e2.png",
+                "atchOrgFileName": "scene00929.png",
+                "atchFileId": null,
+                "atchFileSize": 2720398,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 167.0,
+                            "y": 497.54261016845703,
+                            "w": 753.276985168457,
+                            "h": 582.4570698315431
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 673.0729166666667,
+                            "y": 0.0,
+                            "w": 647.2963968912759,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 711.4062499999999,
+                            "y": 745.0568135579426,
+                            "w": 1003.963063557943,
+                            "h": 333.2765197753906
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1105.3693135579426,
+                            "y": 796.7234802246094,
+                            "w": 813.7026468912761,
+                            "h": 280.05681355794263
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "w": 677.0359802246094,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651841",
+                "frame": 958,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "11e2cf1f8639420d974b092c342f6160.png",
+                "atchOrgFileName": "scene00958.png",
+                "atchFileId": null,
+                "atchFileSize": 3044359,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 105.42889142857155,
+                            "y": 497.0616803850446,
+                            "w": 762.0305201925222,
+                            "h": 582.9383196149554
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 652.8348214285716,
+                            "y": 744.2045375279018,
+                            "w": 1016.6666666666665,
+                            "h": 335.79546247209817
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 606.4431762695312,
+                            "y": 0.0,
+                            "w": 651.0162353515625,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 0.26243663969489717,
+                            "y": 0.0,
+                            "w": 621.4826892671131,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1049.026985168457,
+                            "y": 793.6789703369141,
+                            "w": 870.973014831543,
+                            "h": 286.32102966308594
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651842",
+                "frame": 987,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "05f7bd2889944990879f58ebbaca52fb.png",
+                "atchOrgFileName": "scene00987.png",
+                "atchFileId": null,
+                "atchFileSize": 3230466,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 39.14349714285726,
+                            "y": 499.9188232421875,
+                            "w": 776.8873430496651,
+                            "h": 578.9385396149553
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 554.7395833333334,
+                            "y": 0.0,
+                            "w": 642.6657104492186,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 599.0252976190475,
+                            "y": 741.347394670759,
+                            "w": 968.4341140020463,
+                            "h": 338.65260532924106
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 998.8879830496651,
+                            "y": 789.9188232421875,
+                            "w": 920.613505045573,
+                            "h": 290.0811767578125
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.7386271158854925,
+                            "y": 3.143920898437443,
+                            "w": 566.6666666666665,
+                            "h": 1076.8560791015625
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651843",
+                "frame": 1016,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "a1af5f5ba2bd425d83c0f1781e0c3160.png",
+                "atchOrgFileName": "scene01016.png",
+                "atchFileId": null,
+                "atchFileSize": 2961331,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 491.6666666666667,
+                            "w": 860.3342933333333,
+                            "h": 586.3331733333332
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 589.1443452380953,
+                            "y": 750.0486973353795,
+                            "w": 994.4351971338666,
+                            "h": 329.95130266462047
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1056.9128757052952,
+                            "y": 795.5934312608507,
+                            "w": 862.2711520724829,
+                            "h": 284.4065687391493
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 540.5539703369141,
+                            "y": 0.0,
+                            "w": 644.8153432210286,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "w": 540.7386271158854,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651844",
+                "frame": 1045,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "51d17a5b7d4f423baf6255b3827a4775.png",
+                "atchOrgFileName": "scene01045.png",
+                "atchFileId": null,
+                "atchFileSize": 3103239,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 3.000960000000017,
+                            "y": 458.06817626953125,
+                            "w": 875.4422162695313,
+                            "h": 618.9321237304687
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 460.07291666666663,
+                            "y": 0.0,
+                            "w": 684.3702596028646,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 508.07291666666663,
+                            "y": 753.1590576171875,
+                            "w": 1093.2844034830728,
+                            "h": 326.8409423828125
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1106.5650801225142,
+                            "y": 807.3037164861505,
+                            "w": 813.4349198774858,
+                            "h": 272.6962835138495
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651845",
+                "frame": 1074,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "b0005de9f53547b4b7847f5481636f40.png",
+                "atchOrgFileName": "scene01074.png",
+                "atchFileId": null,
+                "atchFileSize": 3197914,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 4.001280000000005,
+                            "y": 459.1590576171875,
+                            "w": 854.4418962695313,
+                            "h": 618.8413223828125
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 472.6443452380952,
+                            "y": 745.1136125837054,
+                            "w": 1101.957923525856,
+                            "h": 333.55305408296147
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 417.40529378255206,
+                            "y": 0.0,
+                            "w": 695.6486765543619,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1096.0308401925224,
+                            "y": 801.9317626953125,
+                            "w": 823.9691598074776,
+                            "h": 278.0682373046875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651846",
+                "frame": 1103,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "4211abd800a140e497cc2952339db559.png",
+                "atchOrgFileName": "scene01103.png",
+                "atchFileId": null,
+                "atchFileSize": 3246715,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1066.9128757052952,
+                            "y": 786.199476453993,
+                            "w": 853.0871242947048,
+                            "h": 292.8004435460069
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 3.200000000305181E-4,
+                            "y": 455.1590576171875,
+                            "w": 834.4428562695313,
+                            "h": 618.8413223828126
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 373.90625,
+                            "y": 1.666666666666515,
+                            "w": 689.2674473353795,
+                            "h": 1078.3333333333335
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 446.73958333333326,
+                            "y": 727.3105875651042,
+                            "w": 1070.2963968912761,
+                            "h": 352.68941243489576
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651847",
+                "frame": 1132,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "678f2b355a1e40a186d483f870e868f6.png",
+                "atchOrgFileName": "scene01132.png",
+                "atchFileId": null,
+                "atchFileSize": 3153802,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 403.1590576171875,
+                            "w": 1014.4431762695312,
+                            "h": 675.8414023828125
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 495.40625,
+                            "y": 723.1590576171875,
+                            "w": 1117.0369262695312,
+                            "h": 356.8409423828125
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 418.07291666666663,
+                            "y": 0.0,
+                            "w": 678.9630635579427,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1266.0308401925222,
+                            "y": 784.5795288085938,
+                            "w": 653.9691598074778,
+                            "h": 295.42047119140625
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651848",
+                "frame": 1161,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "2fe6ae9a85c145d3a8850a0331b91734.png",
+                "atchOrgFileName": "scene01161.png",
+                "atchFileId": null,
+                "atchFileSize": 3070322,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1334.026985168457,
+                            "y": 788.2244110107422,
+                            "w": 585.472054831543,
+                            "h": 291.2758889892579
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1.0003199999999879,
+                            "y": 357.63254801432294,
+                            "w": 1081.0356602246093,
+                            "h": 722.367451985677
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 428.07291666666663,
+                            "y": 727.632548014323,
+                            "w": 1153.4540685017905,
+                            "h": 352.367451985677
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 338.7386271158854,
+                            "y": 0.0,
+                            "w": 697.7045491536459,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651849",
+                "frame": 1190,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "9843e741597c4d0f8d045713795f70fa.png",
+                "atchOrgFileName": "scene01190.png",
+                "atchFileId": null,
+                "atchFileSize": 3159925,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1224.602268763951,
+                            "y": 782.2564697265625,
+                            "w": 695.3977312360489,
+                            "h": 296.7434502734374
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 304.73958333333326,
+                            "y": 725.1136125837054,
+                            "w": 1167.005542573475,
+                            "h": 354.8863874162946
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 208.05397033691406,
+                            "y": 0.0,
+                            "w": 730.0,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 2.4052937825520075,
+                            "y": 355.1136125837054,
+                            "w": 973.148676554362,
+                            "h": 724.8863874162946
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651850",
+                "frame": 1219,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "160bf3071dec44f895ee327ea9902be5.png",
+                "atchOrgFileName": "scene01219.png",
+                "atchFileId": null,
+                "atchFileSize": 3106391,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1146.0308401925222,
+                            "y": 772.2564697265625,
+                            "w": 771.9694798074779,
+                            "h": 305.74391027343745
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 218.07291666666663,
+                            "y": 718.4216986762153,
+                            "w": 1154.395514594184,
+                            "h": 361.5783013237847
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 100.55397033691406,
+                            "y": 0.0,
+                            "w": 744.8153432210286,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 362.25646972656244,
+                            "w": 907.4052937825521,
+                            "h": 717.7435302734375
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651851",
+                "frame": 1248,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "159ef238716348cb88bae1d4be0b0486.png",
+                "atchOrgFileName": "scene01248.png",
+                "atchFileId": null,
+                "atchFileSize": 2919890,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 934.6906534830729,
+                            "y": 746.199476453993,
+                            "w": 985.3093465169272,
+                            "h": 330.80082354600694
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 701.5795288085938,
+                            "w": 1138.7026468912761,
+                            "h": 378.42047119140625
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 365.96588134765625,
+                            "w": 698.0539703369141,
+                            "h": 714.0341186523438
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 0.2650960286458144,
+                            "w": 614.905293782552,
+                            "h": 1079.7349039713542
+                        },
+                        "category_id": "f_i_279",
+                        "category_name": "bookshelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651852",
+                "frame": 1277,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "baf8ea3c9a5c439697e1181d82dcd1f7.png",
+                "atchOrgFileName": "scene01277.png",
+                "atchFileId": null,
+                "atchFileSize": 2932842,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 727.776985168457,
+                            "y": 731.1590576171875,
+                            "w": 1188.2226948315429,
+                            "h": 345.8407023828124
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 697.3105875651042,
+                            "w": 931.3573201497395,
+                            "h": 382.68941243489576
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651853",
+                "frame": 1306,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "bdba1d72338c4fbe84b9f21ffd7fd4e8.png",
+                "atchOrgFileName": "scene01306.png",
+                "atchFileId": null,
+                "atchFileSize": 2666596,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 569.1350979275173,
+                            "y": 729.5328097873264,
+                            "w": 1349.5315687391492,
+                            "h": 350.4671902126736
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 699.5328097873264,
+                            "w": 770.2462090386284,
+                            "h": 380.4671902126736
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1768.4431762695312,
+                            "y": 119.1590576171875,
+                            "w": 150.0,
+                            "h": 584.0
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651854",
+                "frame": 1335,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "e1447b3f4a1b40babb38e58bc8bf6d38.png",
+                "atchOrgFileName": "scene01335.png",
+                "atchFileId": null,
+                "atchFileSize": 2658438,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 419.02698516845703,
+                            "y": 728.4216986762153,
+                            "w": 1500.973014831543,
+                            "h": 349.5781413237846
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 700.6439208984375,
+                            "w": 633.702646891276,
+                            "h": 379.3560791015625
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1597.0359802246094,
+                            "y": 145.9658813476562,
+                            "w": 136.66666666666674,
+                            "h": 550.0
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651855",
+                "frame": 1364,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "0a6c2bf1cce94e16b5d0fa5ed360fbae.png",
+                "atchOrgFileName": "scene01364.png",
+                "atchFileId": null,
+                "atchFileSize": 2492385,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 308.0239868164063,
+                            "y": 730.8278982979912,
+                            "w": 1485.1497105189733,
+                            "h": 346.17186170200875
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 702.3450261896306,
+                            "w": 531.526985168457,
+                            "h": 377.65497381036937
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1486.0308401925224,
+                            "y": 156.54218401227678,
+                            "w": 128.57142857142867,
+                            "h": 520.0
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651856",
+                "frame": 1393,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "c5d6920104554b6e81da779232290e39.png",
+                "atchOrgFileName": "scene01393.png",
+                "atchFileId": null,
+                "atchFileSize": 2427901,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 219.22158813476562,
+                            "y": 728.5795288085938,
+                            "w": 1469.0,
+                            "h": 348.4202311914063
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1390.3165544782366,
+                            "y": 162.40795317150292,
+                            "w": 126.612548828125,
+                            "h": 506.9913736979168
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 706.5795288085938,
+                            "w": 442.2215881347656,
+                            "h": 373.42047119140625
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651857",
+                "frame": 1422,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "e7fc7c01d618423cb00f744b30ad1c4a.png",
+                "atchOrgFileName": "scene01422.png",
+                "atchFileId": null,
+                "atchFileSize": 2303616,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 115.49999999999994,
+                            "y": 727.6325480143229,
+                            "w": 1471.5359802246094,
+                            "h": 348.36713198567713
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1297.4594116210938,
+                            "y": 172.25646972656256,
+                            "w": 110.0,
+                            "h": 492.85714285714283
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651858",
+                "frame": 1451,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "e320d2e3a2bf4b3dac8b62caf0cf4c1d.png",
+                "atchOrgFileName": "scene01451.png",
+                "atchFileId": null,
+                "atchFileSize": 2345817,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 37.33429333333356,
+                            "y": 729.4744110107422,
+                            "w": 1484.701686891276,
+                            "h": 349.8586023225912
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1235.3693135579426,
+                            "y": 168.59842936197913,
+                            "w": 115.00000000000023,
+                            "h": 492.3674519856771
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651859",
+                "frame": 1480,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "9a0e772dff9740c9b1a2e35627f56622.png",
+                "atchOrgFileName": "scene01480.png",
+                "atchFileId": null,
+                "atchFileSize": 2302898,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 722.632548014323,
+                            "w": 1480.3693135579429,
+                            "h": 356.7004653190104
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1198.7026468912761,
+                            "y": 174.29921468098954,
+                            "w": 105.0,
+                            "h": 492.2429693312873
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651860",
+                "frame": 1509,
+                "boxCount": 2,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "707ffbc02ecf42d9be739746776a3fcc.png",
+                "atchOrgFileName": "scene01509.png",
+                "atchFileId": null,
+                "atchFileSize": 2272941,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 719.2992146809895,
+                            "w": 1433.7026468912761,
+                            "h": 360.0337986523439
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1158.887983049665,
+                            "y": 172.25646972656247,
+                            "w": 111.42857142857156,
+                            "h": 482.8571428571429
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651861",
+                "frame": 1538,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "1ecaf95fc1ce404692d6708b30ad260c.png",
+                "atchOrgFileName": "scene01538.png",
+                "atchFileId": null,
+                "atchFileSize": 2225955,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1.6676266666667061,
+                            "y": 719.2992146809896,
+                            "w": 1363.3133507096354,
+                            "h": 356.70046531901033
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1098.7026468912761,
+                            "y": 176.9317626953125,
+                            "w": 106.66666666666652,
+                            "h": 484.03411865234375
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1490.4431762695312,
+                            "y": 213.94882202148438,
+                            "w": 429.55682373046875,
+                            "h": 680.0
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651862",
+                "frame": 1567,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "900cbc23be324ae2ab227e1df2497066.png",
+                "atchOrgFileName": "scene01567.png",
+                "atchFileId": null,
+                "atchFileSize": 2216800,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1.0006399999999758,
+                            "y": 713.9488220214844,
+                            "w": 1267.8873430496653,
+                            "h": 364.3845113118491
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1390.5539703369138,
+                            "y": 202.6325480143229,
+                            "w": 529.4460296630862,
+                            "h": 680.0000000000001
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1013.1736973353794,
+                            "y": 177.97075544084817,
+                            "w": 98.57142857142856,
+                            "h": 480.0000000000001
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651863",
+                "frame": 1596,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "729da18a7ee64d0faefeddac72fdb178.png",
+                "atchOrgFileName": "scene01596.png",
+                "atchFileId": null,
+                "atchFileSize": 2266072,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 714.2992146809895,
+                            "w": 1180.3693135579429,
+                            "h": 362.70108531901053
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 937.4526468912759,
+                            "y": 178.4658813476562,
+                            "w": 97.82433827718114,
+                            "h": 483.508529663086
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    },
+                    {
+                        "box": {
+                            "x": 1304.4431762695312,
+                            "y": 191.1590576171875,
+                            "w": 615.5568237304688,
+                            "h": 682.0
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651864",
+                "frame": 1625,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "8505f250592749d199694710e1fd82b2.png",
+                "atchOrgFileName": "scene01625.png",
+                "atchFileId": null,
+                "atchFileSize": 2207400,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 704.2992146809896,
+                            "w": 1121.6476440429688,
+                            "h": 373.7011653190104
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1246.526985168457,
+                            "y": 171.66666666666663,
+                            "w": 673.473014831543,
+                            "h": 736.6666666666667
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 883.1736973353794,
+                            "y": 180.6439208984375,
+                            "w": 95.96140059213792,
+                            "h": 482.2222222222223
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651865",
+                "frame": 1654,
+                "boxCount": 3,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "b2c86b5ad7574536938e0085a6015e36.png",
+                "atchOrgFileName": "scene01654.png",
+                "atchFileId": null,
+                "atchFileSize": 2217933,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1.9996799999999482,
+                            "y": 698.5984293619792,
+                            "w": 1059.6479640429689,
+                            "h": 379.4019506380207
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1180.7386271158855,
+                            "y": 171.66666666666663,
+                            "w": 739.2613728841145,
+                            "h": 723.3333333333334
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 817.0359802246094,
+                            "y": 180.96588134765628,
+                            "w": 100.0,
+                            "h": 476.66666666666663
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651866",
+                "frame": 1683,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "f6657fa7747b47898d729f6f3d1d8082.png",
+                "atchOrgFileName": "scene01683.png",
+                "atchFileId": null,
+                "atchFileSize": 2345890,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1708.0729166666667,
+                            "y": 640.9658813476562,
+                            "w": 211.92708333333326,
+                            "h": 439.03411865234375
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": -9.600000000276054E-4,
+                            "y": 705.9658813476562,
+                            "w": 1004.7405433333334,
+                            "h": 374.0341186523437
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1122.0359802246094,
+                            "y": 169.29921468098956,
+                            "w": 797.9640197753906,
+                            "h": 699.0341186523438
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 760.3693135579427,
+                            "y": 180.96588134765628,
+                            "w": 98.33333333333337,
+                            "h": 480.0
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651867",
+                "frame": 1712,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "a53b57c49371430795ac5016d0344fc1.png",
+                "atchOrgFileName": "scene01712.png",
+                "atchFileId": null,
+                "atchFileSize": 2401879,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1577.490488688151,
+                            "y": 631.4204406738281,
+                            "w": 342.50951131184934,
+                            "h": 448.57901932617193
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 703.7045288085938,
+                            "w": 912.9885864257812,
+                            "h": 376.2954711914062
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1024.7395833333333,
+                            "y": 165.0,
+                            "w": 893.3333333333335,
+                            "h": 689.7537740071616
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 663.5632760184152,
+                            "y": 172.84088134765625,
+                            "w": 100.0,
+                            "h": 492.662353515625
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651868",
+                "frame": 1741,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "1541f45ae608478cbe9e3df432c4c444.png",
+                "atchOrgFileName": "scene01741.png",
+                "atchFileId": null,
+                "atchFileSize": 2736995,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1.9996800000000015,
+                            "y": 706.4204406738281,
+                            "w": 827.1574753548176,
+                            "h": 373.5795593261718
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1477.4904886881511,
+                            "y": 630.6628672281902,
+                            "w": 408.84188464518184,
+                            "h": 445.6703061051431
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 938.0729166666666,
+                            "y": 153.49430084228516,
+                            "w": 981.9270833333334,
+                            "h": 926.5056991577148
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 572.4904886881509,
+                            "y": 172.3295338948567,
+                            "w": 101.66666666666674,
+                            "h": 491.66666666666686
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651869",
+                "frame": 1770,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "a54b0f7d7f514aa5bc6831cf27c26eef.png",
+                "atchOrgFileName": "scene01770.png",
+                "atchFileId": null,
+                "atchFileSize": 2726602,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 707.3295338948568,
+                            "w": 759.1571553548177,
+                            "h": 370.6708461051432
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1392.9885864257812,
+                            "y": 626.7954406738281,
+                            "w": 391.67840024088537,
+                            "h": 430.2043793261719
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 864.9885864257812,
+                            "y": 154.65906778971353,
+                            "w": 1055.0114135742188,
+                            "h": 910.3409322102864
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 494.99184744698664,
+                            "y": 166.28245762416296,
+                            "w": 103.99673897879461,
+                            "h": 492.5129830496652
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651870",
+                "frame": 1799,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "66723e58a8a04d6085c2af2d37d45985.png",
+                "atchOrgFileName": "scene01799.png",
+                "atchFileId": null,
+                "atchFileSize": 2673925,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1309.1571553548176,
+                            "y": 620.6628672281902,
+                            "w": 370.8418846451824,
+                            "h": 411.6705461051433
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 2.6669866666666167,
+                            "y": 707.3295338948567,
+                            "w": 678.1568353548178,
+                            "h": 372.3375127718101
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 792.4904886881511,
+                            "y": 168.33333333333331,
+                            "w": 1018.9157613118487,
+                            "h": 880.0000000000002
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 412.490488688151,
+                            "y": 158.99620056152338,
+                            "w": 105.0,
+                            "h": 503.3333333333333
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651871",
+                "frame": 1828,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "9cbc378129ef4e93838d91fbc7796037.png",
+                "atchOrgFileName": "scene01828.png",
+                "atchFileId": null,
+                "atchFileSize": 2856778,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 713.4943008422852,
+                            "w": 608.7357330322266,
+                            "h": 366.50569915771484
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1232.4904886881511,
+                            "y": 618.9962005615234,
+                            "w": 357.24909464518214,
+                            "h": 406.00369943847676
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 714.9809773763021,
+                            "y": 181.66666666666663,
+                            "w": 1013.0919392903644,
+                            "h": 842.992401123047
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1534.9809773763022,
+                            "y": 1.3257344563801894,
+                            "w": 383.33333333333303,
+                            "h": 1078.6742655436199
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 325.9333583286831,
+                            "y": 151.3257344563802,
+                            "w": 114.77277483258916,
+                            "h": 512.0995803106398
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651872",
+                "frame": 1857,
+                "boxCount": 5,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "b322285fcf794a0d959ad5228a8cfc6f.png",
+                "atchOrgFileName": "scene01857.png",
+                "atchFileId": null,
+                "atchFileSize": 3062088,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 641.40625,
+                            "y": 188.49430084228516,
+                            "w": 979.8294830322266,
+                            "h": 827.5
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1155.8238220214844,
+                            "y": 615.6628672281902,
+                            "w": 343.51079131184923,
+                            "h": 398.6707261051433
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 233.31431070963538,
+                            "y": 146.28245762416293,
+                            "w": 114.17617797851562,
+                            "h": 524.3804096040271
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    },
+                    {
+                        "box": {
+                            "x": 0.0,
+                            "y": 714.7954406738281,
+                            "w": 526.9885864257812,
+                            "h": 365.2045593261719
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1451.2357330322266,
+                            "y": 0.0,
+                            "w": 468.76426696777344,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651873",
+                "frame": 1886,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "df9f1b1c3ddd4946b365a5fcaa476477.png",
+                "atchOrgFileName": "scene01886.png",
+                "atchFileId": null,
+                "atchFileSize": 3199285,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1381.40625,
+                            "y": 0.0,
+                            "w": 530.5940700000001,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 570.9885864257812,
+                            "y": 190.79544067382812,
+                            "w": 970.0,
+                            "h": 818.0
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1086.9885864257812,
+                            "y": 614.7954406738281,
+                            "w": 334.0107735742189,
+                            "h": 396.20479932617195
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 149.15715535481758,
+                            "y": 130.66286722819007,
+                            "w": 121.6666666666668,
+                            "h": 535.0000000000001
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651874",
+                "frame": 1915,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "e257d8099ea34e028ad5526719302c9f.png",
+                "atchOrgFileName": "scene01915.png",
+                "atchFileId": null,
+                "atchFileSize": 3260373,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 538.0729166666666,
+                            "y": 185.66286722819007,
+                            "w": 987.7509053548177,
+                            "h": 825.0
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1364.9885864257812,
+                            "y": 1.667066666666642,
+                            "w": 552.3457069075517,
+                            "h": 1078.3329333333334
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 1067.490488688151,
+                            "y": 610.6628672281901,
+                            "w": 340.17649797851607,
+                            "h": 400.0038994384767
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 111.64764404296875,
+                            "y": 123.99620056152341,
+                            "w": 124.17617797851562,
+                            "h": 545.0000000000001
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651875",
+                "frame": 1944,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "4d92af016bcb43fa9258f6ecdde70131.png",
+                "atchOrgFileName": "scene01944.png",
+                "atchFileId": null,
+                "atchFileSize": 3255581,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 509.15715535481763,
+                            "y": 180.00064000000006,
+                            "w": 999.5785776774089,
+                            "h": 830.9936608422851
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1044.9918474469866,
+                            "y": 614.8538861955915,
+                            "w": 344.4367239815847,
+                            "h": 399.7178023758371
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 1340.9885864257812,
+                            "y": 0.0,
+                            "w": 577.325724283854,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 77.490488688151,
+                            "y": 122.32953389485675,
+                            "w": 125.0,
+                            "h": 543.3333333333335
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            },
+            {
+                "contextId": "WCID_001651876",
+                "frame": 1973,
+                "boxCount": 4,
+                "atchFilePath": "./JID_001642221/",
+                "atchFileName": "2a12af7fd791443eb1af0d237d4fc418.png",
+                "atchOrgFileName": "scene01973.png",
+                "atchFileId": null,
+                "atchFileSize": 3240183,
+                "boxesJson": null,
+                "box": [
+                    {
+                        "box": {
+                            "x": 1058.4431762695312,
+                            "y": 590.7954406738281,
+                            "w": 353.5571437304686,
+                            "h": 404.5779200962611
+                        },
+                        "category_id": "f_i_292",
+                        "category_name": "trashcan"
+                    },
+                    {
+                        "box": {
+                            "x": 514.0719604492188,
+                            "y": 158.33333333333331,
+                            "w": 1037.3342895507812,
+                            "h": 829.6590677897136
+                        },
+                        "category_id": "f_i_299",
+                        "category_name": "table"
+                    },
+                    {
+                        "box": {
+                            "x": 1364.0719604492188,
+                            "y": 0.0,
+                            "w": 555.9280395507812,
+                            "h": 1080.0
+                        },
+                        "category_id": "f_i_295",
+                        "category_name": "chair"
+                    },
+                    {
+                        "box": {
+                            "x": 78.44317626953125,
+                            "y": 94.79544067382812,
+                            "w": 132.0,
+                            "h": 556.0
+                        },
+                        "category_id": "f_i_288",
+                        "category_name": "shelf"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1361 @@
+{
+	"annotation": {
+		"jobId": "JID_001641642",
+		"resourceId": "JFID_002470394",
+		"resourcePath": "./",
+		"resource": "Average_stature__in__office__00001.mp4",
+		"resourceSize": 69597372,
+		"totFrame": 1160,
+		"sampledFrameCount": 42,
+		"duration": 40000.0,
+		"fps": 29.0,
+		"place": "office",
+		"viewpoint": "Average_stature",
+		"annotations": [
+			{
+				"contextId": "WCID_001631654",
+				"frame": 1,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "18332789948947c69ab069cbe5cf1b4d.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00001.png",
+				"atchFileSize": 2230925,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1165.069376627604,
+							"y": 461.11111958821624,
+							"w": 281.66666666666674,
+							"h": 308.3333333333332
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 771.736043294271,
+							"y": 326.1111195882162,
+							"w": 414.9999999999998,
+							"h": 421.66666666666663
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631655",
+				"frame": 30,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "2c9e6590097646d89687e87892bff65c.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00030.png",
+				"atchFileSize": 2280111,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 770.1387532552085,
+							"y": 308.88890584309905,
+							"w": 423.33333333333303,
+							"h": 449.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 1160.1387532552083,
+							"y": 432.22223917643237,
+							"w": 309.9999999999998,
+							"h": 336.6666666666665
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631656",
+				"frame": 59,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "344dacc7b6bb438aa4a45603a6f8ebc1.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00059.png",
+				"atchFileSize": 2294703,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1156.805419921875,
+							"y": 425.55557250976574,
+							"w": 309.9999999999998,
+							"h": 339.9999999999998
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 766.805419921875,
+							"y": 318.88890584309905,
+							"w": 416.6666666666665,
+							"h": 439.9999999999997
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631657",
+				"frame": 88,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "3ff5f1d3816a4dec9ebb4997e41c1ff7.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00088.png",
+				"atchFileSize": 2380743,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 756.8054199218751,
+							"y": 318.888905843099,
+							"w": 416.6666666666664,
+							"h": 449.9999999999999
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 1146.805419921875,
+							"y": 442.2222391764323,
+							"w": 290,
+							"h": 323.3333333333332
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631658",
+				"frame": 117,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "3ec4c8831866403daa9e7253a7768b5f.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00117.png",
+				"atchFileSize": 2331313,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1113.4720865885415,
+							"y": 438.88890584309905,
+							"w": 306.6666666666665,
+							"h": 326.66666666666646
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 726.8054199218752,
+							"y": 318.88890584309905,
+							"w": 423.33333333333303,
+							"h": 433.3333333333331
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631824",
+				"frame": 146,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "d944ec5a9554462588f3a7c04bf0f64d.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00146.png",
+				"atchFileSize": 2404455,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1103.4720865885415,
+							"y": 437.7777862548828,
+							"w": 286.6666666666665,
+							"h": 316.6666666666665
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 723.4720865885417,
+							"y": 317.7777862548829,
+							"w": 416.6666666666665,
+							"h": 429.9999999999998
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631825",
+				"frame": 175,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "c1eda1c103bb4c22833374eafc991131.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00175.png",
+				"atchFileSize": 2442636,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 703.4720865885417,
+							"y": 307.7777862548829,
+							"w": 419.9999999999998,
+							"h": 446.6666666666664
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 1100.1387532552083,
+							"y": 454.4444529215495,
+							"w": 283.33333333333326,
+							"h": 299.99999999999994
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631826",
+				"frame": 204,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "34415b554ee14ac58deeec8a04905b2c.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00204.png",
+				"atchFileSize": 2425682,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1070.1387532552083,
+							"y": 434.4444529215496,
+							"w": 296.6666666666665,
+							"h": 323.3333333333331
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 676.8054199218751,
+							"y": 327.777786254883,
+							"w": 436.6666666666664,
+							"h": 419.9999999999997
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631827",
+				"frame": 233,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "d09e5b6ea47f4045b8469e6aa265b99a.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00233.png",
+				"atchFileSize": 2406289,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 663.4720865885417,
+							"y": 311.1111195882161,
+							"w": 423.33333333333326,
+							"h": 436.6666666666666
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 1063.4720865885417,
+							"y": 414.44445292154955,
+							"w": 283.33333333333303,
+							"h": 346.6666666666665
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631828",
+				"frame": 262,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "f46787c91cbf4680af0c4f992e7583b9.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00262.png",
+				"atchFileSize": 2360827,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1043.4720865885415,
+							"y": 431.1111195882163,
+							"w": 276.6666666666665,
+							"h": 323.33333333333314
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 640.1387532552086,
+							"y": 324.44445292154955,
+							"w": 426.6666666666664,
+							"h": 419.9999999999998
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631829",
+				"frame": 291,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "de0a8a9511df4c80b2a5cabc76d9658d.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00291.png",
+				"atchFileSize": 2403120,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 622.6040649414062,
+							"y": 323.33333969116217,
+							"w": 425,
+							"h": 414.99999999999994
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 1037.6040649414062,
+							"y": 443.3333396911622,
+							"w": 269.9999999999998,
+							"h": 304.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631830",
+				"frame": 320,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "600c8fad3c46459aa6209940776fd689.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00320.png",
+				"atchFileSize": 2464653,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 1015.1040649414062,
+							"y": 453.3333396911621,
+							"w": 277.5,
+							"h": 292.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 620.1040649414064,
+							"y": 315.83333969116217,
+							"w": 414.9999999999999,
+							"h": 427.49999999999994
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631831",
+				"frame": 349,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "970fd196b8d545fd8402bc008e780c9e.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00349.png",
+				"atchFileSize": 2450937,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 605.1040649414064,
+							"y": 313.33333969116217,
+							"w": 409.9999999999999,
+							"h": 432.49999999999994
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 997.6040649414062,
+							"y": 428.3333396911621,
+							"w": 277.5,
+							"h": 327.4999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631832",
+				"frame": 378,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "34c6ca538beb43fda07c70cc96a0ebfb.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00378.png",
+				"atchFileSize": 2528647,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 957.6040649414062,
+							"y": 440.8333396911621,
+							"w": 280,
+							"h": 312.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 557.6040649414064,
+							"y": 323.33333969116217,
+							"w": 414.9999999999999,
+							"h": 434.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631833",
+				"frame": 407,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "42784ace79824717ae474908d4d29ac3.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00407.png",
+				"atchFileSize": 2506361,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 517.6040649414064,
+							"y": 323.33333969116217,
+							"w": 432.4999999999999,
+							"h": 432.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 927.6040649414062,
+							"y": 433.3333396911621,
+							"w": 270,
+							"h": 315
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631834",
+				"frame": 436,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "a82d37652d6e4684ad326c5efd2b820f.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00436.png",
+				"atchFileSize": 2515907,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 897.6040649414062,
+							"y": 440.8333396911621,
+							"w": 282.5,
+							"h": 307.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 512.6040649414064,
+							"y": 323.33333969116217,
+							"w": 412.4999999999999,
+							"h": 427.49999999999994
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631835",
+				"frame": 465,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "6e8b2352db3841049bf3f147d1cf843a.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00465.png",
+				"atchFileSize": 2515185,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 492.6040649414065,
+							"y": 323.33333969116217,
+							"w": 417.4999999999998,
+							"h": 442.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 895.1040649414062,
+							"y": 440.8333396911621,
+							"w": 275,
+							"h": 314.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631836",
+				"frame": 494,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "975abc21706a41dfb7979f897302b0bb.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00494.png",
+				"atchFileSize": 2519056,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 870.1040649414062,
+							"y": 443.3333396911621,
+							"w": 265,
+							"h": 307.4999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 442.60406494140653,
+							"y": 325.83333969116217,
+							"w": 449.9999999999997,
+							"h": 429.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631837",
+				"frame": 523,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "929541809a564d9d9cb13c121027feec.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00523.png",
+				"atchFileSize": 2493653,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 442.60406494140636,
+							"y": 330.83333969116217,
+							"w": 427.4999999999999,
+							"h": 424.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 852.6040649414062,
+							"y": 438.3333396911621,
+							"w": 260,
+							"h": 305
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631838",
+				"frame": 552,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "8e5142b13dc1455c90c7623ec3c4f7cd.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00552.png",
+				"atchFileSize": 2495681,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 830.1040649414062,
+							"y": 468.3333396911621,
+							"w": 275,
+							"h": 275
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 415.10406494140653,
+							"y": 318.33333969116217,
+							"w": 429.9999999999997,
+							"h": 437.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631839",
+				"frame": 581,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "42a560f916234d2eb5a25ba329f88935.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00581.png",
+				"atchFileSize": 2539010,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 390.1040649414065,
+							"y": 325.83333969116217,
+							"w": 434.9999999999998,
+							"h": 439.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 805.1040649414062,
+							"y": 455.8333396911621,
+							"w": 265,
+							"h": 280
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631840",
+				"frame": 610,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "0f40c0a884d84e8083139e503815c098.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00610.png",
+				"atchFileSize": 2573891,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 795.1040649414062,
+							"y": 455.8333396911621,
+							"w": 265,
+							"h": 282.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 370.1040649414065,
+							"y": 323.33333969116217,
+							"w": 437.4999999999998,
+							"h": 437.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631841",
+				"frame": 639,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "b1fe3fd82c3c47a0bd0c4c61a24161f9.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00639.png",
+				"atchFileSize": 2575303,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 357.60406494140665,
+							"y": 325.83333969116217,
+							"w": 439.9999999999997,
+							"h": 434.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 772.6040649414062,
+							"y": 448.3333396911621,
+							"w": 282.5,
+							"h": 297.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631842",
+				"frame": 668,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "c360a69888db4d0e9081fdf62ab1f3cb.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00668.png",
+				"atchFileSize": 2551740,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 757.6040649414062,
+							"y": 453.3333396911621,
+							"w": 282.5,
+							"h": 290
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 330.1040649414065,
+							"y": 325.83333969116217,
+							"w": 452.4999999999998,
+							"h": 432.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631843",
+				"frame": 697,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "74994858a50d40e5848addc90ddddef9.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00697.png",
+				"atchFileSize": 2557268,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 317.6040649414065,
+							"y": 323.33333969116217,
+							"w": 452.4999999999998,
+							"h": 447.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 752.6040649414062,
+							"y": 440.8333396911621,
+							"w": 265,
+							"h": 300
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631844",
+				"frame": 726,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "7be3b3a8f8484adcbb6aaf9232772875.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00726.png",
+				"atchFileSize": 2574189,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 737.6040649414062,
+							"y": 453.3333396911621,
+							"w": 270,
+							"h": 287.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 292.6040649414065,
+							"y": 330.83333969116217,
+							"w": 457.4999999999998,
+							"h": 444.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631845",
+				"frame": 755,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "ccf698feb7664066a077cf925f40a7c8.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00755.png",
+				"atchFileSize": 2471037,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 285.1040649414065,
+							"y": 323.33333969116217,
+							"w": 449.9999999999999,
+							"h": 442.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 720.1040649414064,
+							"y": 448.3333396911621,
+							"w": 274.9999999999999,
+							"h": 297.5
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631846",
+				"frame": 784,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "f4f0882b138f4900a590dff4c7c7bea9.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00784.png",
+				"atchFileSize": 2559101,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 712.6040649414064,
+							"y": 453.3333396911621,
+							"w": 269.9999999999999,
+							"h": 285
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 270.1040649414065,
+							"y": 325.83333969116217,
+							"w": 454.9999999999999,
+							"h": 437.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631847",
+				"frame": 813,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "b0c9490877d0442080243a7236152294.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00813.png",
+				"atchFileSize": 2555675,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 250.10406494140648,
+							"y": 333.33333969116217,
+							"w": 449.9999999999999,
+							"h": 432.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 687.6040649414064,
+							"y": 448.3333396911621,
+							"w": 272.4999999999999,
+							"h": 295
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631848",
+				"frame": 842,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "f9e4600fdf6b4d61a7fc8b911fe81596.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00842.png",
+				"atchFileSize": 2543470,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 677.6040649414064,
+							"y": 445.8333396911621,
+							"w": 262.4999999999999,
+							"h": 305
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 230.10406494140648,
+							"y": 338.33333969116217,
+							"w": 462.4999999999999,
+							"h": 439.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631849",
+				"frame": 871,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "f163bf09accc4440afd3dea2e7e583ba.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00871.png",
+				"atchFileSize": 2623172,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 195.10406494140648,
+							"y": 330.83333969116217,
+							"w": 474.9999999999999,
+							"h": 439.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 647.6040649414065,
+							"y": 443.3333396911621,
+							"w": 277.4999999999998,
+							"h": 300
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631850",
+				"frame": 900,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "1f15b882b5df43c2a6b691c51e3a07ec.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00900.png",
+				"atchFileSize": 2455224,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 610.1040649414064,
+							"y": 455.8333396911621,
+							"w": 272.4999999999999,
+							"h": 302.4999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 155.10406494140648,
+							"y": 348.33333969116217,
+							"w": 477.4999999999999,
+							"h": 449.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631851",
+				"frame": 929,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "5716b0b3bd7448cb9d928eb8d35db1ea.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00929.png",
+				"atchFileSize": 2435573,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 115.10406494140648,
+							"y": 345.83333969116217,
+							"w": 494.9999999999999,
+							"h": 449.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 595.1040649414064,
+							"y": 460.8333396911621,
+							"w": 269.9999999999999,
+							"h": 285
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631852",
+				"frame": 958,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "65306b03b76845ad94bfa3bd53669ae0.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00958.png",
+				"atchFileSize": 2435389,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 560.1040649414064,
+							"y": 460.8333396911621,
+							"w": 287.4999999999999,
+							"h": 304.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 97.60406494140659,
+							"y": 350.83333969116217,
+							"w": 477.4999999999999,
+							"h": 439.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631853",
+				"frame": 987,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "3f6df99ca0244d7c8810a9317c928eee.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene00987.png",
+				"atchFileSize": 2405068,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 62.604064941406705,
+							"y": 348.33333969116217,
+							"w": 502.49999999999966,
+							"h": 457.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 535.1040649414064,
+							"y": 465.8333396911621,
+							"w": 279.9999999999999,
+							"h": 299.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631854",
+				"frame": 1016,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "0d191f7f964d4e5b9a49badb52d475d9.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01016.png",
+				"atchFileSize": 2357189,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 522.6040649414064,
+							"y": 475.8333396911621,
+							"w": 277.4999999999999,
+							"h": 289.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 37.604064941406705,
+							"y": 335.83333969116217,
+							"w": 502.49999999999966,
+							"h": 487.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631855",
+				"frame": 1045,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "b759f5543cae45759f8e2d5dfb2fa5b9.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01045.png",
+				"atchFileSize": 2439999,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 15.104064941406591,
+							"y": 353.33333969116217,
+							"w": 504.9999999999999,
+							"h": 467.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 505.1040649414065,
+							"y": 470.8333396911621,
+							"w": 274.9999999999998,
+							"h": 299.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631856",
+				"frame": 1074,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "9ab46efcb64c45e5bd9022ac808dc8e8.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01074.png",
+				"atchFileSize": 2424083,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 472.6040649414064,
+							"y": 470.8333396911621,
+							"w": 289.99999999999983,
+							"h": 304.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 0.10406494140659106,
+							"y": 355.83333969116217,
+							"w": 494.99999999999983,
+							"h": 464.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631857",
+				"frame": 1103,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "430d694cccfd4e3188f47c1fcff6d02d.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01103.png",
+				"atchFileSize": 2435377,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 0.10406494140659106,
+							"y": 360.83333969116205,
+							"w": 474.99999999999983,
+							"h": 467.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 470.10406494140653,
+							"y": 483.3333396911621,
+							"w": 272.49999999999983,
+							"h": 289.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631858",
+				"frame": 1132,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "4cbd8a18f3df4228b1f58881c881b31f.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01132.png",
+				"atchFileSize": 2431789,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 457.60406494140636,
+							"y": 485.8333396911621,
+							"w": 265,
+							"h": 294.9999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 0.10406494140659106,
+							"y": 353.33333969116217,
+							"w": 457.49999999999983,
+							"h": 482.49999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631859",
+				"frame": 1161,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "42fa759a85ce43b6a828e49103137779.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01161.png",
+				"atchFileSize": 2387771,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 0.10406494140659106,
+							"y": 355.83333969116205,
+							"w": 434.9999999999999,
+							"h": 469.99999999999994
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					},
+					{
+						"box": {
+							"x": 432.6040649414064,
+							"y": 480.8333396911621,
+							"w": 279.99999999999994,
+							"h": 292.4999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					}
+				]
+			},
+			{
+				"contextId": "WCID_001631860",
+				"frame": 1190,
+				"boxCount": 2,
+				"atchFilePath": "./JID_001641642/",
+				"atchFileName": "63c4a502fff141c09f87c7ed4c8c5b80.png",
+				"atchOrgFileName": "Average_stature__in__office__00001__scene01190.png",
+				"atchFileSize": 2383168,
+				"boxesJson": null,
+				"box": [
+					{
+						"box": {
+							"x": 402.60406494140653,
+							"y": 480.8333396911621,
+							"w": 289.99999999999983,
+							"h": 307.4999999999999
+						},
+						"category_id": "f_i_299",
+						"category_name": "table"
+					},
+					{
+						"box": {
+							"x": 0.10406494140659106,
+							"y": 355.83333969116217,
+							"w": 399.9999999999999,
+							"h": 494.99999999999983
+						},
+						"category_id": "f_i_278",
+						"category_name": "sofa"
+					}
+				]
+			}
+		]
+	}
+}
